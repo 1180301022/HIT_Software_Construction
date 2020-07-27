@@ -1,0 +1,300 @@
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA018成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA0329成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA0329成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA070成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA131成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA156成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 11:29:45 P1.EntriesFromFile checkExceptionAndCreateEntry
+WARNING: 输入飞机N1369的信息和已有冲突
+2020-05-27 11:34:38 P1.FlightScheduleApp addLocation
+INFO: 添加名为a的地点成功
+2020-05-27 11:34:41 P1.FlightScheduleApp addLocation
+INFO: 添加名为b的地点成功
+2020-05-27 11:35:05 P1.FlightScheduleApp addEntry
+INFO: 添加计划项CA456成功
+2020-05-27 11:35:08 P1.FlightScheduleApp deleteLocation
+WARNING: 待删除地点a被未结束航班CA456占用
+2020-05-27 11:35:12 P1.FlightScheduleApp checkResourceConflict
+INFO: 检查已有计划项是否存在资源冲突
+2020-05-27 11:35:13 P1.FlightScheduleApp getEntriesUseInputResourceAndPreEntry
+WARNING: 选择资源时超出范围
+2020-05-27 11:35:21 P1.FlightScheduleApp addPlane
+INFO: 添加编号为123的飞机成功
+2020-05-27 11:35:25 P1.FlightScheduleApp runEntry
+WARNING: 条件不满足，无法启动计划项CA456
+2020-05-27 11:35:30 P1.FlightScheduleApp allocateSource
+WARNING: 为航班CA456分配资源时，输入资源编号超出范围
+2020-05-27 11:35:34 P1.FlightScheduleApp allocateSource
+INFO: 为计划项CA456分配资源123成功
+2020-05-27 11:35:38 P1.FlightScheduleApp runEntry
+WARNING: 选择计划项时超出范围
+2020-05-27 11:35:42 P1.FlightScheduleApp runEntry
+WARNING: 选择计划项时超出范围
+2020-05-27 11:35:45 P1.FlightScheduleApp endEntry
+WARNING: 结束计划项CA456时条件不满足，无法结束
+2020-05-27 11:35:49 P1.FlightScheduleApp getEntryState
+INFO: 查询计划项CA456的状态成功
+2020-05-27 11:35:57 P1.FlightScheduleApp deletePlane
+WARNING: 存在占用飞机123的未结束航班CA456
+2020-05-27 11:36:00 P1.FlightScheduleApp runEntry
+INFO: 启动计划项CA456成功
+2020-05-27 11:36:02 P1.FlightScheduleApp endEntry
+INFO: 结束计划项CA456成功
+2020-05-27 11:36:06 P1.FlightScheduleApp deletePlane
+INFO: 删除飞机123成功
+2020-05-27 11:36:09 P1.FlightScheduleApp deleteLocation
+INFO: 删除位置b成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA018成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA03成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA0329成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA0329成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA036成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA070成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA131成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA156成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA16成功
+2020-05-27 15:12:54 P1.EntriesFromFile checkExceptionAndCreateEntry
+WARNING: 输入飞机N1369的信息和已有冲突
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA72成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA79成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班AA79成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班CX388成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班CX388成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班CZ325成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班CZ325成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班CZ9463成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班GS122成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班GS122成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班HO98成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班HO98成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班KL07成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班LH28成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班MU66成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班MU819成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班MU819成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班NX259成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班NX605成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班NX605成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班SC30成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班SC30成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班SC5928成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班SC5928成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班ZH050成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班ZH050成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班ZH16成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkExceptionAndCreateEntry
+INFO: 添加航班ZH16成功
+2020-05-27 15:13:02 P1.EntriesFromFile checkFileFormat
+WARNING: 输入文件格式错误

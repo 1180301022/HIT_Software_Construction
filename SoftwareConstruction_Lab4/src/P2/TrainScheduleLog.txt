@@ -1,0 +1,40 @@
+2020-05-27 11:37:14 P2.TrainScheduleApp addLocation
+INFO: 输入位置a已添加
+2020-05-27 11:37:16 P2.TrainScheduleApp addLocation
+INFO: 输入位置b已添加
+2020-05-27 11:37:24 P2.TrainScheduleApp addTrain
+INFO: 编号为123的车厢已添加
+2020-05-27 11:37:52 P2.TrainScheduleApp setEntryTime
+WARNING: 为计划项CA123设置时间时输入格式错误
+2020-05-27 11:38:15 P2.TrainScheduleApp addEntry
+INFO: 计划项CA456添加成功
+2020-05-27 11:38:18 P2.TrainScheduleApp runEntry
+WARNING: 条件不满足，无法启动计划项CA456
+2020-05-27 11:38:21 P2.TrainScheduleApp blockEntry
+WARNING: 条件不满足，无法挂起计划项CA456
+2020-05-27 11:38:24 P2.TrainScheduleApp endEntry
+WARNING: 条件不满足，无法结束计划项CA456
+2020-05-27 11:38:29 P2.TrainScheduleApp getEntryState
+INFO: 查询计划项CA456的状态
+2020-05-27 11:38:32 P2.TrainScheduleApp checkResourceConflict
+INFO: 检查目前的计划项是否存在资源冲突
+2020-05-27 11:38:37 P2.TrainScheduleApp getEntriesUseInputResourceAndPreEntry
+WARNING: 输入计划项序号超出范围
+2020-05-27 11:38:45 P2.TrainScheduleApp allocateSource
+INFO: 为计划项CA456分配车厢成功
+2020-05-27 11:38:54 P2.TrainScheduleApp getEntriesUseInputResourceAndPreEntry
+WARNING: 输入计划项序号超出范围
+2020-05-27 11:39:00 P2.TrainScheduleApp getEntriesUseInputResourceAndPreEntry
+WARNING: 输入计划项序号超出范围
+2020-05-27 11:39:06 P2.TrainScheduleApp allocateSource
+INFO: 为计划项CA456分配车厢成功
+2020-05-27 11:39:09 P2.TrainScheduleApp getEntriesUseInputResourceAndPreEntry
+INFO: 查询CA456前序计划项
+2020-05-27 11:39:14 P2.TrainScheduleApp showInfoBoard
+INFO: 查询了a位置的信息板
+2020-05-28 09:00:28 P2.TrainScheduleApp addLocation
+INFO: 输入位置zhengzhou已添加
+2020-05-28 09:00:31 P2.TrainScheduleApp addLocation
+INFO: 输入位置harbin已添加
+2020-05-28 09:00:56 P2.TrainScheduleApp addEntry
+INFO: 计划项CSD123添加成功

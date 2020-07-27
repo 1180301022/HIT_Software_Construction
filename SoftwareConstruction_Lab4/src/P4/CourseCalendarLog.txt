@@ -1,0 +1,42 @@
+2020-05-27 11:40:51 P4.CourseCalendarApp addTeacher
+INFO: 身份证号为456的教师添加成功
+2020-05-27 11:40:53 P4.CourseCalendarApp addLocation
+INFO: a添加成功
+2020-05-27 11:40:55 P4.CourseCalendarApp addLocation
+INFO: b添加成功
+2020-05-27 11:40:56 P4.CourseCalendarApp addLocation
+WARNING: 输入位置a已存在
+2020-05-27 11:41:26 P4.CourseCalendarApp setEntryTime
+WARNING: 设置CS的时间时，输入结束时间早于起始时间
+2020-05-27 11:41:48 P4.CourseCalendarApp addEntry
+INFO: 课程CSS添加成功
+2020-05-27 11:41:54 P4.CourseCalendarApp deleteLocation
+WARNING: 存在占用b并且未结束的计划项
+2020-05-27 11:41:56 P4.CourseCalendarApp deleteLocation
+INFO: 成功删除教室a
+2020-05-27 11:42:01 P4.CourseCalendarApp runEntry
+WARNING: 条件不满足，无法取消CSS
+2020-05-27 11:42:03 P4.CourseCalendarApp endEntry
+WARNING: 条件不满足，无法取消CSS
+2020-05-27 11:42:05 P4.CourseCalendarApp getEntryState
+INFO: 查询计划项CSS的状态
+2020-05-27 11:42:09 P4.CourseCalendarApp checkResourceAndLocationConflict
+INFO: 查询是否存在资源或位置冲突
+2020-05-27 11:42:16 P4.CourseCalendarApp allocateSource
+INFO: 为计划项CSS分配教师成功
+2020-05-27 11:42:19 P4.CourseCalendarApp runEntry
+INFO: 启动课程CSS成功
+2020-05-27 11:42:22 P4.CourseCalendarApp endEntry
+INFO: 结束CSS成功
+2020-05-27 11:42:27 P4.CourseCalendarApp cancelEntry
+WARNING: 条件不满足，无法取消CSS
+2020-05-27 11:42:33 P4.CourseCalendarApp getEntriesUseInputResourceAndPreEntry
+INFO: 查询教师zy的所有课程，以及CSS的前序计划项
+2020-05-27 11:42:37 P4.CourseCalendarApp showInfoBoard
+INFO: 查询教室b的课程表
+2020-05-27 11:42:44 P4.CourseCalendarApp deleteTeacher
+INFO: 删除教师zy成功
+2020-05-27 11:42:46 P4.CourseCalendarApp deleteTeacher
+WARNING: 删除教师时输入错误的编号
+2020-05-27 11:42:50 P4.CourseCalendarApp allocateSource
+WARNING: 为计划项CSS操作不符合要求
